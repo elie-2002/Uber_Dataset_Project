@@ -16,7 +16,7 @@ Data Cleaning & Processing: Python (Pandas)
 
 Visualization Tool: Power BI Desktop
 
-My Kaggle Notebook: View my work on Kaggle
+My Kaggle Notebook:(https://www.kaggle.com/code/nshimyumuremyielias/assignment-by-using-kaggle/edit)
 
 🔍 Project Steps
 1️⃣ Understanding the Data
